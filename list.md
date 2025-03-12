@@ -1,5 +1,4 @@
 # List of Chess Openings
-
 - [Alekhine’s Defense](openings/alekhines-defense.md)
 - [Benko Gambit](openings/benko-gambit.md)
 - [Benoni Defense](openings/benoni-defense.md)
