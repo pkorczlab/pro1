@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "List of Chess Openings"
+permalink: /list.html
 ---
 # List of Chess Openings
 - [Alekhine’s Defense](openings/alekhines-defense.md)
