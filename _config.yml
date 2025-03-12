@@ -1,0 +1,16 @@
+title: "My Chess Openings Site"
+description: "A static website about chess openings."
+baseurl: "pro1/"
+url: ""
+
+collections:
+  openings:
+    output: true
+    permalink: /openings/:title/
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
