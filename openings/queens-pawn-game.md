@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Queen’s Pawn Game"
+permalink: /openings/queens-pawn-game.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Queen’s Pawn Game"
 ## Queen’s Pawn Game
 
 1.d4
+
+![Queen's Pawn Game](../images/queens-pawn-game-1.png)
 
 The Queen’s Pawn Game refers to a family of openings where white starts the game by pushing the pawn in front of their queen, two squares to d4.
 
@@ -24,19 +27,13 @@ A popular variation in the Queen’s Pawn Game is the Anti-Nimzo-Indian.
 
 1.d4 Nf6 2.c4 e6 3.Nf3
 
+![Queen's Pawn Game Anti-Nimzo-Indian](../images/queens-pawn-game-2.png)
+
 White wants to avoid the annoying pin that will be created on their knight after the moves 3.Nc3 Bb4 (the Nimzo-Indian). Therefore, instead of playing 3.Nc3, white goes for 3.Nf3 (the Anti-Nimzo-Indian) and will respond to 3… Bb4+ with 4.Bd2.
 
 ### The Pros and Cons of the Queen’s Pawn Game
 
 The Queen’s Pawn Game family of openings is generally slower, less tactical and more strategic in nature (compared to King’s Pawn Game openings). In Queen’s Pawn openings white gets more opportunities to create long-term pressure, but a quick attack on black isn’t likely and king-side development will be slow.
-
-
-
-## Images
-
-![queens-pawn-game](../images/queens-pawn-game-1.png)
-
-![queens-pawn-game](../images/queens-pawn-game-2.png)
 
 
 

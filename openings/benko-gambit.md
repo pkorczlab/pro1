@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Benko Gambit"
+permalink: /openings/benko-gambit.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Benko Gambit"
 ## Benko Gambit
 
 1.d4 Nf6 2.c4 c5 3.d5 b5
+
+![benko gambit chess opening](../images/benko-gambit-1.png)
 
 ### Benko Gambit Basic Theory
 
@@ -24,19 +27,13 @@ If white declines the gambit then the game will likely enter a position resembli
 
 1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6
 
+![Benko Gambit Accepted](../images/benko-gambit-2.png)
+
 ### The Pros and Cons of the Benko Gambit
 
 The Benko Gambit is an ideal opening for situations where black is willing to take on some risk–in return for increased winning chances. However, white can always decline the gambit and they have many options to choose from. If you play the Benko Gambit, you will likely get exciting opportunities against all but the most experienced opponents.
 
 Note:In chess, a gambit refers to an opening move in which a player makes a sacrifice, typically of a pawn, in return for a compensating advantage, such as speedy development of their pieces.
-
-
-
-## Images
-
-![benko-gambit](../images/benko-gambit-1.png)
-
-![benko-gambit](../images/benko-gambit-2.png)
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "London System"
+permalink: /openings/london-system.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "London System"
 ## London System
 
 1.d4 Nf6 2.Nf3 d5 3.Bf4
+
+![London System](../images/london-system-1.png)
 
 The London System is an opening system for white, named after the 1922 London tournament–where the opening became prominent.
 
@@ -28,19 +31,13 @@ Note:The Main Line Variation of a particular opening may not always remain the m
 
 1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3
 
+![London System Main Line](../images/london-system-2.png)
+
 With the moves 1.d4 2.Nf3 & 3.Bf4, white revealed they want to play the London System. The traditional continuation is then 3… c5 4.e3, known as the London System Main Line. A more modern approach is to play 2.Bf4, on the second move, committing to the London System one move earlier.
 
 ### The Pros and Cons of the London System
 
 Being a System Opening, the London System is easy to learn and there isn’t much black can do to avoid it. It is a reliable way for white to get a satisfactory position. However, black is not under any immediate pressure and it might not be clear how white can obtain an initiative.
-
-
-
-## Images
-
-![london-system](../images/london-system-1.png)
-
-![london-system](../images/london-system-2.png)
 
 
 

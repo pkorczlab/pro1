@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Réti Opening"
+permalink: /openings/reti-opening.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Réti Opening"
 ## Réti Opening
 
 1.Nf3 d5 2.c4
+
+![Réti Opening](../images/reti-opening-1.png)
 
 The Réti Opening is an opening for white, named after the Czechoslovakian chess player, Richard Réti, who defeated José Raúl Capablanca, the reigning world champion at the time, with this opening.
 
@@ -24,19 +27,13 @@ A popular variation in the Réti Opening is the Queen’s Gambit (Transposed).
 
 1.Nf3 d5 2.c4 e6 3.d4
 
+![Réti Opening Transpose Queen's Gambit Declined](../images/reti-opening-2.png)
+
 The Réti Opening opening often transposes to another opening, typically into the Queen’s Gambit Declined. The player with the white pieces could even pretend to play the Réti Opening (starting with the moves Nf3 and c4) in order to trick their opponent into playing the Queen’s Gambit.
 
 ### The Pros and Cons of the Réti Opening
 
 A main advantage of the Réti Opening is that it is very flexible and allows white to easily transpose into other openings. The downside is that black also gets a lot of the same flexibility.
-
-
-
-## Images
-
-![reti-opening](../images/reti-opening-1.png)
-
-![reti-opening](../images/reti-opening-2.png)
 
 
 

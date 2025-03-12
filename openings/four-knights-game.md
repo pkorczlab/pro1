@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Four Knights Game"
+permalink: /openings/four-knights-game.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Four Knights Game"
 ## Four Knights Game
 
 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6
+
+![Four Knights Game](../images/four-knights-game-1.png)
 
 The Four Knights Game is an opening for black, named after the simple fact that the four knights are the first pieces to be developed in the game.
 
@@ -24,19 +27,13 @@ A popular variation in the Four Knights Game is the Double Spanish Variation (al
 
 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4
 
+![Four Knights Game Double Spanish Variation](../images/four-knights-game-2.png)
+
 Black hopes to get easy equality by keeping the position completely symmetrical.
 
 ### The Pros and Cons of the Four-Knights Game
 
 The Four-Knights Game is a perfectly sound opening that features very natural development. However, some players may not like its simplicity. Also, due to it being very symmetrical, it may lead to rather drawish positions.
-
-
-
-## Images
-
-![four-knights-game](../images/four-knights-game-1.png)
-
-![four-knights-game](../images/four-knights-game-2.png)
 
 
 

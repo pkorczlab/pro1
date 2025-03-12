@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Evans Gambit"
+permalink: /openings/evans-gambit.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Evans Gambit"
 ## Evans Gambit
 
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4
+
+![Evans Gambit](../images/evans-gambit-1.png)
 
 The Evans Gambit is an opening for white, named after Captain William Davies Evans. He was a seafarer and inventor of the tri-colored lighting system–to prevent naval collisions at night. He played this opening against Alexander McDonnell, whilst on shore leave in London in 1825/1826.
 
@@ -24,19 +27,13 @@ A popular variation in the Evans Gambit is the Evans Gambit Accepted.
 
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 c3
 
+![Evans Gambit Accepted](../images/evans-gambit-2.png)
+
 By accepting the gambit, black declares they will defend against white’s threats whilst aiming to catch up in development. If black can succeed in this, they will be a pawn ahead–with good chances to win the endgame.
 
 ### The Pros and Cons of Evan’s Gambit
 
 The Evan’s Gambit is a very aggressive opening that gives white plenty attacking chances. However, there are risks. For one, black can decline the gambit safely. Also, if white’s attack fizzles out, black will simply have an extra pawn.
-
-
-
-## Images
-
-![evans-gambit](../images/evans-gambit-1.png)
-
-![evans-gambit](../images/evans-gambit-2.png)
 
 
 

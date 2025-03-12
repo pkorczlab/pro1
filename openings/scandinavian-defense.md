@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Scandinavian Defense"
+permalink: /openings/scandinavian-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Scandinavian Defense"
 ## Scandinavian Defense
 
 1.e4 d5
+
+![Scandinavian Defense](../images/scandinavian-defense-1.png)
 
 The Scandinavian Defense (or Center Counter Defense, or Center Counter Game) is an opening for black, named after Scandinavian masters who proved the opening is playable for black. One of them, Ludvig Collijn, consistently responded to 1.e4 with 1… d5, at the first Nordic Chess Championship held in Stockholm 1897.
 
@@ -24,6 +27,8 @@ A popular variation in the Scandinavian Defense is the Main Line.
 
 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5
 
+![Scandinavian Defense Main Line](../images/scandinavian-defense-2.png)
+
 3… Qa5, the Main Line of the Scandinavian Defense, is a logical square for the black queen. She will be safe there, for the moment. White will typically place their dark-square bishop on d2 and prepare a discovered attack against black’s queen. Black will, in the meantime, play c6–to create a safe square for the queen on c7, whilst also preventing Nb5 or Nd5.
 
 The moves 3… Qd6 or 3… Qd8 are also popular, depending on what black wants to achieve.
@@ -31,14 +36,6 @@ The moves 3… Qd6 or 3… Qd8 are also popular, depending on what black wants t
 ### The Pros and Cons of the Scandinavian Defense
 
 The Scandinavian Defense can be annoying for white because it forces them to play the opening on black’s terms. Black can usually find good squares for all their pieces and the integrity of their pawn-structure will be strong. On the other hand, white gets a significant lead in development and extra space. Black’s position will typically become more promising as the game continues–if they can survive without weakening their structure. Against strong players, black must be well-versed in the Scandinavian Defense–or risk being crushed quickly.
-
-
-
-## Images
-
-![scandinavian-defense](../images/scandinavian-defense-1.png)
-
-![scandinavian-defense](../images/scandinavian-defense-2.png)
 
 
 

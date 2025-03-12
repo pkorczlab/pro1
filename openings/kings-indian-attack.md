@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "King’s Indian Attack"
+permalink: /openings/kings-indian-attack.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "King’s Indian Attack"
 ## King’s Indian Attack (KIA)
 
 1.Nf3 d5 2.g3
+
+![Kings Indian Attack](../images/kings-indian-attack-1.png)
 
 The King’s Indian Attack, also known as the Barcza System (named after Gedeon Barcza), is a chess opening system for white that mirrors the popular King’s Indian Defense (from black’s side of the board).
 
@@ -34,6 +37,8 @@ A popular variation in the King’s Indian Attack is the Yugoslav Variation.
 
 1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bg4
 
+![King’s Indian Attack Yugoslav Variation](../images/kings-indian-attack-2.png)
+
 The Yugoslav Variation is characterized by black’s move 4… Bg4. By attacking (and potentially pinning) the knight on f3, black anticipates that white typically wants to use the e5-square as a base to attack from.
 
 Note:When the word “Attack” appears in the name of an opening, it usually refers to an opening from white’s point of view. For example, The King’s-Indian Attack resembles the same setup for white as the King’s-Indian Defense does for black.
@@ -44,15 +49,7 @@ The King’s Indian Attack is fairly easy to learn because it is not very theore
 
 
 
-## Images
-
-![kings-indian-attack](../images/kings-indian-attack-1.png)
-
-![kings-indian-attack](../images/kings-indian-attack-2.png)
-
-
-
 ## Extra Information
-**Description:** The King's Indian Attack (or KIA) is a chess opening system where White adopts the setup more commonly seen being played by Black in the King's Indian Defence.The King's Indian Attack is characterised by the following moves: the central pawns are developed to e4 and d3, the knights are developed to d2 and f3, the king's bishop is fianchettoed at g2 following the g-pawn's move to g3, and White ...
+**Description:** A clear example of the King's Indian Attack as the reversed King's Indian Defense. History. Like several hypermodern openings, the King's Indian Attack was first known to be played by Bonnerjee Mohishunder in his games with John Cochrane in Calcutta (Kolkata), India in the 1850s, but did not become more widely popular until the 1920s.
 
-**Source:** [Link](https://en.wikipedia.org/wiki/King's_Indian_Attack)
+**Source:** [Link](https://www.chess.com/openings/Kings-Indian-Attack)

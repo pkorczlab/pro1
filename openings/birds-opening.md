@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Bird’s Opening"
+permalink: /openings/birds-opening.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Bird’s Opening"
 ## Bird’s Opening
 
 1.f4
+
+![bird's opening](../images/birds-opening-1.png)
 
 The Bird’s opening is a flank opening from white’s perspective, starting with the move 1.f4.
 
@@ -26,6 +29,8 @@ A popular response by black is 1… d5, known as the Dutch Variation of the Bird
 
 1.f4 d5 3.Nf3
 
+![bird's opening dutch variation](../images/birds-opening-2.png)
+
 If black responds with 1… d5, white usually plays 2.Nf3 and we reach the Dutch Variation of the Bird’s Opening.
 
 In the Dutch Variation of the Bird’s Opening, white will essentially play the Dutch Defence with reversed colors. White can try to dominate the a1-h8 diagonal with a fianchettoed bishop on b2 (and pawns on e3 and f4). White can also opt for aKing’s-Indian setup(g3, Bg2, 0-0), with an attack on the black king-side.
@@ -40,15 +45,7 @@ The Bird’s opening is a good choice for players who want attacking chances but
 
 
 
-## Images
-
-![birds-opening](../images/birds-opening-1.png)
-
-![birds-opening](../images/birds-opening-2.png)
-
-
-
 ## Extra Information
-**Description:** Bird's Opening (or the Dutch Attack) is a chess opening characterised by the move: . 1. f4. Named after 19th century English player Henry Bird, Bird's opening is a standard flank opening.White's strategic ideas involve control of the e5-square, offering good attacking chances at the expense of slightly weakening their own kingside.Black may challenge White's plan to control e5 immediately by ...
+**Description:** Origins and History: The Bird Opening takes its name from the English chess player Henry Bird (1829-1908), who popularized this audacious opening in the latter half of the 19th century. Known for his innovative and enterprising style of play, Bird sought to challenge conventional wisdom and surprise opponents with unexpected moves right from ...
 
-**Source:** [Link](https://en.wikipedia.org/wiki/Bird's_Opening)
+**Source:** [Link](https://www.chess.com/blog/MsChesis/soaring-to-new-heights-unraveling-the-bird-opening)

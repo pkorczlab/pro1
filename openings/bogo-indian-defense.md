@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Bogo-Indian Defense"
+permalink: /openings/bogo-indian-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Bogo-Indian Defense"
 ## Bogo-Indian Defense
 
 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+
+
+![Bogo Indian Defence](../images/bogo-indian-defense-1.png)
 
 The Bogo-Indian Defense is named after the Russian grandmaster Efim Bogoljubow. He famously said: “When I am White I win because I am White. When I am Black I win because I am Bogoljubov.”
 
@@ -24,6 +27,8 @@ A popular variation in the Bogo-Indian Defense is the Nimzowitsch Variation.
 
 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7
 
+![Bogo Indian Defence Nimzowitsch Variation](../images/bogo-indian-defense-2.png)
+
 If white blocks the check with 4.Bd2, black’s popular reply is 4… Qe7, which leads to the Nimzowitsch variation:
 
 In the Nimzowitsch variation black defends the bishop with their queen, 4… Qe7. White usually avoids 5.Bxb4 Qxb4+, which may force white to give up a pawn.
@@ -31,14 +36,6 @@ In the Nimzowitsch variation black defends the bishop with their queen, 4… Qe7
 ### The Pros and Cons of the Bogo-Indian Defense
 
 The Bogo-Indian Defense is reasonably easy to learn and it is also strategically sound. However, it is also not too difficult for white to maintain a space advantage and black typically won’t get many opportunities to complicate the position.
-
-
-
-## Images
-
-![bogo-indian-defense](../images/bogo-indian-defense-1.png)
-
-![bogo-indian-defense](../images/bogo-indian-defense-2.png)
 
 
 

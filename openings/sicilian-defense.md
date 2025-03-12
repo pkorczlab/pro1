@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sicilian Defense"
+permalink: /openings/sicilian-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Sicilian Defense"
 ## Sicilian Defense
 
 1.e4 c5
+
+![Sicilian Defense](../images/sicilian-defense-1.png)
 
 The Sicilian Defense is an opening for black, named after Sicily, a region in Italy, since the earliest noted on the opening were recorded by the Italian chess players Giulio Polerio and Gioachino Greco.
 
@@ -26,19 +29,13 @@ A popular variation in the opening is the Sicilian Defense is the Najdorf Variat
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6
 
+![Sicilian Defense Najdorf Variation](../images/sicilian-defense-2.png)
+
 The Najdorf Variation of the Sicilian Defense is characterized by the move 5…a6. This move controls the b5-square and prevents white’s pieces to use the b5 square. 5.. a6 also support …b5, after which black could develop their light-square bishop on b7. White gets a temporary lead in development and extra space. But since black’s position is free of weaknesses, white will find it difficult to plan an attack on black’s position.
 
 ### The Pros and Cons of the Sicilian Defense
 
 Practitioners of the Sicilian Defense typically want to creates unbalanced positions–which the Sicilian Defense does from the very first move. Since the opening gives black good attacking chances, it is a logical choice when black wants to play for a win. The downside is that white has many continuations to choose from and therefore black needs to study a lot of theory if they want to employ the Sicilian Defense with confidence.
-
-
-
-## Images
-
-![sicilian-defense](../images/sicilian-defense-1.png)
-
-![sicilian-defense](../images/sicilian-defense-2.png)
 
 
 

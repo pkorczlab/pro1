@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Modern Defense"
+permalink: /openings/modern-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Modern Defense"
 ## Modern Defense
 
 1.d4 g6
+
+![Modern Defense](../images/modern-defense-1.png)
 
 The Modern Defense (also known as the Robatsch Defence after Karl Robatsch), is an opening for black, named after thehypermodern opening strategyit represents (dare the opponent to grab more territory in the centre than they can defend).
 
@@ -24,6 +27,8 @@ A popular variation in the Modern Defense is the Standard Line.
 
 1.d4 g6 2.e4 d6 3.Nc3 Bg7
 
+![Modern Defense Standard Line](../images/modern-defense-2.png)
+
 In the Modern Defense Standard Line, white plays Nc3 early on. This move blocks the white c-pawn and indicates that white will, for the time being, focus their attention on the centre and the king-side.
 
 ### The Pros and Cons of the Modern Defense
@@ -32,15 +37,7 @@ The Modern Defense is a very unbalanced opening, which also gives black more opp
 
 
 
-## Images
-
-![modern-defense](../images/modern-defense-1.png)
-
-![modern-defense](../images/modern-defense-2.png)
-
-
-
 ## Extra Information
-**Description:** The Modern Defense (also known as the Robatsch Defence after Karl Robatsch) is a hypermodern chess opening in which Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it.. The Modern Defense usually starts with the opening moves: 1. e4 g6. The opening has been most notably used by British ...
+**Description:** Like the Kan/Paulsen, the so-called "Modern Defense" is an opening with many names. When I first met it, as a beginning chess player, I knew it as the "Robatsch Defense.". It has also been called the Ufimtsev Defense, the Kotov Defense, the Pirc Defense (before the latter began to refer to the related opening with Black playing an early ...Nf6) and the "King's Fianchetto Defense."
 
-**Source:** [Link](https://en.wikipedia.org/wiki/Modern_Defense)
+**Source:** [Link](https://www.chess.com/article/view/the-modern-defense-a-history)

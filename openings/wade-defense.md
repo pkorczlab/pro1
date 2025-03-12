@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Wade Defense"
+permalink: /openings/wade-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Wade Defense"
 ## Wade Defense
 
 1.d4 d6 2.Nf3 Bg4
+
+![Wade Defense](../images/wade-defense-1.png)
 
 The Wade Defense is an opening for black, named after the British International Master Bob Wade, who often played this opening during his chess career. Modern Grandmasters Peter Svidler and Micheal Adams also played this opening on more than just a few occasions.
 
@@ -24,19 +27,13 @@ A popular variation in the Wade Defense is the Main Line.
 
 1.d4 d6 2.Nf3 Bg4 3.c4 Nbd7 4.Nc3 e5
 
+![Wade Defense Main Line](../images/wade-defense-2.png)
+
 The fact that black plays 3… Nd7 is more evidence that they want to counter-strike in the centre with e7-e5 (the Wade Defense Main Line).
 
 ### The Pros and Cons of the Wade Defense
 
 Even though The Wade Defense opening is played surprisingly often, there is very little known theory on it. Modern computer engines (and database statistics) suggest that either 3.e4, 3.c4 or 3.Nc3 should be good for white.
-
-
-
-## Images
-
-![wade-defense](../images/wade-defense-1.png)
-
-![wade-defense](../images/wade-defense-2.png)
 
 
 

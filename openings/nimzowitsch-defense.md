@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Nimzowitsch Defense"
+permalink: /openings/nimzowitsch-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Nimzowitsch Defense"
 ## Nimzowitsch Defense
 
 1.e4 Nc6
+
+![Nimzowitsch Defense](../images/nimzowitsch-defense-1.png)
 
 The Nimzowitsch Defense is another hypermodern opening for black, also named after Aron Nimzowitsch.
 
@@ -24,19 +27,13 @@ A popular variation in the Nimzowitsch Defense is the Scandinavian Variation.
 
 1.e4 Nc6 2.d4 d5
 
+![Nimzowitsch Defence Scandinavian Variation](../images/nimzowitsch-defense-2.png)
+
 2… d5 is referred to as the Scandinavian Defense variation of Nimzowitsch Defense because it somewhat represents a delayed version of the Scandinavian Defense (1.e4 d5).
 
 ### The Pros and Cons of the Nimzowitsch Defense
 
 The Nimzowitsch Defense is a very practical opening, particularly at lower levels where black can surprise their opponent with it. However, experienced players will know how to get an advantage against the Nimzowitsch Defense.
-
-
-
-## Images
-
-![nimzowitsch-defense](../images/nimzowitsch-defense-1.png)
-
-![nimzowitsch-defense](../images/nimzowitsch-defense-2.png)
 
 
 

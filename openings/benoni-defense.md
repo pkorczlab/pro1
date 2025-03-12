@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Benoni Defense"
+permalink: /openings/benoni-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Benoni Defense"
 ## Benoni Defense
 
 1.d4 Nf6 2.c4 c5
+
+![benoni defence](../images/benoni-defense-1.png)
 
 The name of this opening is linked to a book published in 1825, by Aaron Reinganum, who apparently studied chess to alleviate depression. He referred to his writings as Ben-Oni (an ancient Hebrew name, meaning “son of my sorrow”).
 
@@ -28,6 +31,8 @@ A popular variation in the Benoni opening is the Modern Variation.
 
 1.d4 Nf6 2.c4 c5 is 3.d5 e6
 
+![benoni defence modern variation](../images/benoni-defense-2.png)
+
 A popular response to 1.d4 Nf6 2.c4 c5 is 3.d5, to which black will mostly reply 3… e6, known as the Modern Variation of the Benoni.
 
 With the move 3… e6, black’s strategy is to capture white’s pawn on d5, thereby creating a majority of black pawns on the queen-side. Black then intends to play g6 and Bg7, from where the bishop will support the advance of black’s queen-side pawn majority. Black will control the dark-squares, particularly the d4-square, whereas white will have more control over the light squares.
@@ -39,14 +44,6 @@ Even though Frank Marshall invented the Modern Benoni in 1927, it was only popul
 ### The Pros and Cons of the Benoni Defense
 
 The Benoni Defense is an exciting opening that leads to highly imbalanced positions, which increases the likelihood of a decisive result. However, grandmasters will typically avoid this opening because they prefer quieter positions–where they can demonstrate their superior positional understanding.
-
-
-
-## Images
-
-![benoni-defense](../images/benoni-defense-1.png)
-
-![benoni-defense](../images/benoni-defense-2.png)
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ruy Lopez"
+permalink: /openings/ruy-lopez.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Ruy Lopez"
 ## Ruy Lopez
 
 1.e4 e5 2.Nf3 Nc6 3.Bb5
+
+![Ruy Lopez](../images/ruy-lopez-1.png)
 
 The Ruy Lopez is an opening for white, named after a Spanish priest, Ruy López de Segura. Ruy Lopez wrote a book on this and other openings. However, the Ruy Lopez only gained traction in the mid 19th century–when Russian theoretician Carl Jaenisch popularized its use.
 
@@ -24,19 +27,13 @@ A popular variation in the Ruy Lopez is the Closed Defense.
 
 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4
 
+![Ruy Lopez Closed Defense](../images/ruy-lopez-2.png)
+
 In the Ruy Lopez Closed Defense variation, after 3… a6, white retreats the bishop to a4. Black will typically develop further with 4…Nf6,  5… Be7 and 6… b5, hitting the white bishop again and gaining space on the queen-side.
 
 ### The Pros and Cons of the Ruy Lopez Opening
 
 The Ruy Lopez Opening combines the features of typical King’s Pawn openings with the features of typical Queen’s Pawn openings. This means white gets to develop and castle quickly, but also gets some long-term pressure. The downside is that there is a lot of complex theory to learn because black has many options to choose from.
-
-
-
-## Images
-
-![ruy-lopez](../images/ruy-lopez-1.png)
-
-![ruy-lopez](../images/ruy-lopez-2.png)
 
 
 

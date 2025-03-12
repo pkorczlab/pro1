@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Queen’s Gambit Accepted"
+permalink: /openings/queens-gambit-accepted.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Queen’s Gambit Accepted"
 ## Queen’s Gambit Accepted
 
 1.d4 d5 2.c4 dxc4
+
+![Queen's Gambit Accepted](../images/queens-gambit-accepted-1.png)
 
 The Queen’s Gambit Accepted is an opening for black that starts with the moves 1.d4 d5 2.c4 dxc4, named after the fact that black accepts the gambit.
 
@@ -24,15 +27,9 @@ A popular variation in the Queen’s Gambit Accepted is the Main Line.
 
 1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.d3
 
+![Queen's Gambit Accepted Main Line](../images/queens-gambit-accepted-2.png)
+
 In the Queen’s-Gambit Accepted Main Line, white delays Nc3, in favor of Nf3, because their first priority is to prevent the possibility of black playing e7-e5. The next objective then is to attack and capture the pawn on c4, by playing e3. Black typically won’t waste time trying to defend it, but will later try to gain time and space on the queen-side with moves like c5, a6 and b5 (hitting the white bishop on c4).
-
-
-
-## Images
-
-![queens-gambit-accepted](../images/queens-gambit-accepted-1.png)
-
-![queens-gambit-accepted](../images/queens-gambit-accepted-2.png)
 
 
 

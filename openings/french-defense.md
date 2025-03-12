@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "French Defense"
+permalink: /openings/french-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "French Defense"
 ## French Defense
 
 1.e4 e6
+
+![French Defence](../images/french-defense-1.png)
 
 The French Defense is an opening for black, so named after a correspondence match played between the city of London and the city of Paris, in 1834.
 
@@ -24,19 +27,13 @@ A popular variation in the French Defense is the Winawer Variation.
 
 1.e4 e6 2.d4 d5 3.Nc3 Bb4
 
+![French Defence Winawer Variation](../images/french-defense-2.png)
+
 A main idea in the French Defense is that the black pawn on d5 attacks the e4-square. The Winawer variation further supports this idea by pinning the white knight on c3.
 
 ### The Pros and Cons of the French Defense
 
 The French Defense is a very popular opening because it is fairly easy to learn, very solid and even offers attacking possibilities. However, the French Defense leaves black with a locked in light-squared bishop. (There are ways to deal with it though.)
-
-
-
-## Images
-
-![french-defense](../images/french-defense-1.png)
-
-![french-defense](../images/french-defense-2.png)
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Budapest Gambit"
+permalink: /openings/budapest-gambit.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Budapest Gambit"
 ## Budapest Gambit
 
 1.d4 Nf6 2.c4 e5
+
+![Budapest Gambit](../images/budapest-gambit-1.png)
 
 The Budapest Gambit is an opening for black, named after the location of the first know game featuring the moves 1.d4 Nf6 2.c4 e5. It was the game Adler–Maróczy (played in Budapest in 1896).
 
@@ -24,6 +27,8 @@ A popular variation in the Budapest Gambit is the Rubinstein Variation.
 
 1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4
 
+![Budapest Gambit Rubinstein Variation](../images/budapest-gambit-2.png)
+
 The Rubinstein variation refers to the first time when 4.Bf4 was employed, by Akiba Rubinstein, as white, against GM Milan Vidmar. Rubinstein actually won the game, which lead to more players adopting the move 4.Bf4.
 
 Budapest Gambit Rubinstein Variation, to which the main response by black is 4… Nc6.
@@ -35,14 +40,6 @@ Shakhriyar Mamedyarov used the Budapest gambit against the former world champion
 ### The Pros and Cons of the Budapest Gambit
 
 Although the Budapest gambit is rather unusual, it is still considered to be sound. This means you can lead your opponent into territory that may be unfamiliar to them, without risking too much. However, black has to spend time to get the pawn back and white can use this time to solidify some space advantage.
-
-
-
-## Images
-
-![budapest-gambit](../images/budapest-gambit-1.png)
-
-![budapest-gambit](../images/budapest-gambit-2.png)
 
 
 

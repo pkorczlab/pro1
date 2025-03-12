@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Petrov’s Defense"
+permalink: /openings/petrovs-defense.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Petrov’s Defense"
 ## Petrov’s Defense
 
 1.e4 e5 2.Nf3 Nf6
+
+![Petrov's Defense](../images/petrovs-defense-1.png)
 
 Petrov’s Defense (or Petroff Defense) is an opening for black, named after Alexander Petrov, a Russian chess player, who popularized the opening in the mid-19th century. He discovered this opening is playable if black meets 3.Nxe5 with 3…d6 before …Nxe4.
 
@@ -24,19 +27,13 @@ A popular variation in Petrov’s Defense is the Classical Variation.
 
 1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6
 
+![Petrov's Defense Classical Variation](../images/petrovs-defense-2.png)
+
 3… d6 is the move that Alexander Petrov discovered. Previously, the moves 3… Nxe4? 4.Qe2! Nf6?? 5.Nc6+! made black believe that this opening is terrible for black. However, after 3… d6 4.Nf3, black can safely play 4… Nxe4 and restore the balance in material.
 
 ### The Pros and Cons of the Petrov’s Defense
 
 The Petrov’s Defense is a very solid opening for black and a surprising amount of theory exists in some lines. It will be very difficult for white to get any advantage from the opening. However, it is not a good choice if black is playing for a win because white can easily force black into very drawish positions.
-
-
-
-## Images
-
-![petrovs-defense](../images/petrovs-defense-1.png)
-
-![petrovs-defense](../images/petrovs-defense-2.png)
 
 
 

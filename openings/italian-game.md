@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Italian Game"
+permalink: /openings/italian-game.html
 ---
 
 
@@ -11,6 +12,8 @@ title: "Italian Game"
 ## Italian Game
 
 1.e4 e5 2.Nf3 Nc6 3.Bc4
+
+![Italian Game](../images/italian-game-1.png)
 
 The Italian Game is a family of chess openings beginning with the moves: 1. e4 e5 2. Nf3 Nc6 3. Bc4. The opening is named after the nationality of its early practitioners, Italian chess players Greco and Polerio. The opening is also referenced in The Göttingen manuscript–a Latin text devoted entirely to chess, possibly written late in the 15th century.
 
@@ -24,19 +27,13 @@ Two popular variations in the Italian Game is the Giuoco Piano (translated “qu
 
 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.0-0 Nf6 5.d3
 
+![Italian Game Giuoco Pianissimo](../images/italian-game-2.png)
+
 Instead of 5.c3 (Giuoco Piano), white plays 5.d3 (Giuoco Pianissimo) and thereby avoids an immediate confrontation in the centre. White then prepares to play d3-d4 at a later stage.
 
 ### The Pros and Cons of the Italian Game
 
 The fact that many beginners play the Italian Game, quite possibly without even knowing its name, attests to just how natural the piece-development flows in this opening. At the same time though, the Italian Game doesn’t do much to put any pressure on black early on.
-
-
-
-## Images
-
-![italian-game](../images/italian-game-1.png)
-
-![italian-game](../images/italian-game-2.png)
 
 
 
