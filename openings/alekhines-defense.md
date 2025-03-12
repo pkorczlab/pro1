@@ -36,13 +36,13 @@ Note:When the word “defense” appears in the name of an opening, such as Alek
 
 ## Images
 
-![alekhines-defense](images/alekhines-defense-1.png)
+![alekhines-defense](../images/alekhines-defense-1.png)
 
-![alekhines-defense](images/alekhines-defense-2.png)
+![alekhines-defense](../images/alekhines-defense-2.png)
 
 
 
 ## Extra Information
-**Description:** History. Alexander Alekhine first played Alekhine's Defense at Budapest in 1921, scoring a win and a draw, and continued playing it during the 1920s. Alekhine did not create the opening, and games from the 19th century that begin with 1.e4 Nf6 can be found, but his use popularized it. Alekhine. Photo: Wikimedia, public domain.
+**Description:** Viktor Korchnoi also included the defense in his repertoire, leading to its respectable reputation. Viktor Korchnoi. Nowadays, Alekhine's defense is not so common at the top level. De Firmian observes, "The fashion could quickly change if some champion of the opening takes up the cause, as the results Black has obtained in practice are good."
 
-**Source:** [Link](https://www.chess.com/openings/Alekhines-Defense)
+**Source:** [Link](https://www.chess.com/blog/ThummimS/the-history-and-use-of-the-alekhines-defense-1)

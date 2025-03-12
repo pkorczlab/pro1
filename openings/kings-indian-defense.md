@@ -34,9 +34,9 @@ The King’s-Indian Defense is a very dynamic opening for black and it leads to 
 
 ## Images
 
-![kings-indian-defense](images/kings-indian-defense-1.png)
+![kings-indian-defense](../images/kings-indian-defense-1.png)
 
-![kings-indian-defense](images/kings-indian-defense-2.png)
+![kings-indian-defense](../images/kings-indian-defense-2.png)
 
 
 

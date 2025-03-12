@@ -34,9 +34,9 @@ The Queen’s-Indian Defense is a highly respected opening amongst top-level pla
 
 ## Images
 
-![queens-indian-defense](images/queens-indian-defense-1.png)
+![queens-indian-defense](../images/queens-indian-defense-1.png)
 
-![queens-indian-defense](images/queens-indian-defense-2.png)
+![queens-indian-defense](../images/queens-indian-defense-2.png)
 
 
 

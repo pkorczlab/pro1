@@ -34,13 +34,13 @@ A main advantage of the Réti Opening is that it is very flexible and allows whi
 
 ## Images
 
-![reti-opening](images/reti-opening-1.png)
+![reti-opening](../images/reti-opening-1.png)
 
-![reti-opening](images/reti-opening-2.png)
+![reti-opening](../images/reti-opening-2.png)
 
 
 
 ## Extra Information
-**Description:** The Reti Opening emerged during the early 20th century, amidst a backdrop of profound changes in the world of chess. Richard Réti, a masterful player known for his innovative and imaginative style of play, sought to challenge established conventions and revolutionize opening theory with his groundbreaking ideas. Inspired by the principles of ...
+**Description:** The Réti Opening is a hypermodern chess opening whose "traditional" or "classic method" begins with the moves: [1]. 1. Nf3 d5 2. c4. White attacks Black's pawn from the flank, which may occasion 2...dxc4.White may couple this plan with a kingside fianchetto (g3 and Bg2) to create pressure on the light squares in the center.. The opening is named after Czechoslovakian chess player Richard ...
 
-**Source:** [Link](https://www.chess.com/blog/chesssisfun21345/unraveling-the-origins-the-history-of-the-reti-opening)
+**Source:** [Link](https://en.wikipedia.org/wiki/Réti_Opening)

@@ -34,9 +34,9 @@ The Caro-Kann Defense is very popular opening among top players because it has a
 
 ## Images
 
-![caro-kann-defense](images/caro-kann-defense-1.png)
+![caro-kann-defense](../images/caro-kann-defense-1.png)
 
-![caro-kann-defense](images/caro-kann-defense-2.png)
+![caro-kann-defense](../images/caro-kann-defense-2.png)
 
 
 

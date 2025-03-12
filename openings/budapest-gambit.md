@@ -40,9 +40,9 @@ Although the Budapest gambit is rather unusual, it is still considered to be sou
 
 ## Images
 
-![budapest-gambit](images/budapest-gambit-1.png)
+![budapest-gambit](../images/budapest-gambit-1.png)
 
-![budapest-gambit](images/budapest-gambit-2.png)
+![budapest-gambit](../images/budapest-gambit-2.png)
 
 
 

@@ -34,9 +34,9 @@ The Queen’s Pawn Game family of openings is generally slower, less tactical an
 
 ## Images
 
-![queens-pawn-game](images/queens-pawn-game-1.png)
+![queens-pawn-game](../images/queens-pawn-game-1.png)
 
-![queens-pawn-game](images/queens-pawn-game-2.png)
+![queens-pawn-game](../images/queens-pawn-game-2.png)
 
 
 

@@ -34,9 +34,9 @@ The Torre Attack is a system opening and for studying very little theory, white 
 
 ## Images
 
-![torre-attack](images/torre-attack-1.png)
+![torre-attack](../images/torre-attack-1.png)
 
-![torre-attack](images/torre-attack-2.png)
+![torre-attack](../images/torre-attack-2.png)
 
 
 

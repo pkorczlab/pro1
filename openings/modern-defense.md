@@ -34,13 +34,13 @@ The Modern Defense is a very unbalanced opening, which also gives black more opp
 
 ## Images
 
-![modern-defense](images/modern-defense-1.png)
+![modern-defense](../images/modern-defense-1.png)
 
-![modern-defense](images/modern-defense-2.png)
+![modern-defense](../images/modern-defense-2.png)
 
 
 
 ## Extra Information
-**Description:** The Evolution of Chess Openings: From Classical to Modern Strategies. Chess openings have evolved significantly over time, reflecting changes in strategy and theory. Classical Era. Ruy López: Central control and piece development. Italian Game: Rapid development and control of the center. French Defense: Defensive and solid approach with ...
+**Description:** The Modern Defense (also known as the Robatsch Defence after Karl Robatsch) is a hypermodern chess opening in which Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it.. The Modern Defense usually starts with the opening moves: 1. e4 g6. The opening has been most notably used by British ...
 
-**Source:** [Link](https://www.chess.com/blog/kavin1000/the-evolution-of-chess-openings-from-classical-to-modern-strategies)
+**Source:** [Link](https://en.wikipedia.org/wiki/Modern_Defense)

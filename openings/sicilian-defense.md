@@ -36,9 +36,9 @@ Practitioners of the Sicilian Defense typically want to creates unbalanced posit
 
 ## Images
 
-![sicilian-defense](images/sicilian-defense-1.png)
+![sicilian-defense](../images/sicilian-defense-1.png)
 
-![sicilian-defense](images/sicilian-defense-2.png)
+![sicilian-defense](../images/sicilian-defense-2.png)
 
 
 

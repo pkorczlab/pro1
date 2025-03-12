@@ -36,9 +36,9 @@ The King’s Pawn Game family of openings typically allow quicker development th
 
 ## Images
 
-![kings-pawn-game](images/kings-pawn-game-1.png)
+![kings-pawn-game](../images/kings-pawn-game-1.png)
 
-![kings-pawn-game](images/kings-pawn-game-2.png)
+![kings-pawn-game](../images/kings-pawn-game-2.png)
 
 
 

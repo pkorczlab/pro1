@@ -44,9 +44,9 @@ The Benoni Defense is an exciting opening that leads to highly imbalanced positi
 
 ## Images
 
-![benoni-defense](images/benoni-defense-1.png)
+![benoni-defense](../images/benoni-defense-1.png)
 
-![benoni-defense](images/benoni-defense-2.png)
+![benoni-defense](../images/benoni-defense-2.png)
 
 
 

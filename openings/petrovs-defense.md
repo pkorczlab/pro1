@@ -34,9 +34,9 @@ The Petrov’s Defense is a very solid opening for black and a surprising amount
 
 ## Images
 
-![petrovs-defense](images/petrovs-defense-1.png)
+![petrovs-defense](../images/petrovs-defense-1.png)
 
-![petrovs-defense](images/petrovs-defense-2.png)
+![petrovs-defense](../images/petrovs-defense-2.png)
 
 
 

@@ -36,9 +36,9 @@ The Scandinavian Defense can be annoying for white because it forces them to pla
 
 ## Images
 
-![scandinavian-defense](images/scandinavian-defense-1.png)
+![scandinavian-defense](../images/scandinavian-defense-1.png)
 
-![scandinavian-defense](images/scandinavian-defense-2.png)
+![scandinavian-defense](../images/scandinavian-defense-2.png)
 
 
 

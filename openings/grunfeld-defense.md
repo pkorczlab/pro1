@@ -34,9 +34,9 @@ The Grünfeld Defense is a highly theoretical in nature. This implies that eithe
 
 ## Images
 
-![grunfeld-defense](images/grunfeld-defense-1.png)
+![grunfeld-defense](../images/grunfeld-defense-1.png)
 
-![grunfeld-defense](images/grunfeld-defense-2.png)
+![grunfeld-defense](../images/grunfeld-defense-2.png)
 
 
 

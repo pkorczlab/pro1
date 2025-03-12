@@ -34,9 +34,9 @@ The Catalan Opening is a popular choice on the highest levels because white can 
 
 ## Images
 
-![catalan-opening](images/catalan-opening-1.png)
+![catalan-opening](../images/catalan-opening-1.png)
 
-![catalan-opening](images/catalan-opening-2.png)
+![catalan-opening](../images/catalan-opening-2.png)
 
 
 

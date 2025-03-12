@@ -34,9 +34,9 @@ By choosing to play the Scotch Game, white will almost certainly enjoy a space-a
 
 ## Images
 
-![scotch-game](images/scotch-game-1.png)
+![scotch-game](../images/scotch-game-1.png)
 
-![scotch-game](images/scotch-game-2.png)
+![scotch-game](../images/scotch-game-2.png)
 
 
 

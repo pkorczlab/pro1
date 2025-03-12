@@ -34,9 +34,9 @@ The Ruy Lopez Opening combines the features of typical King’s Pawn openings wi
 
 ## Images
 
-![ruy-lopez](images/ruy-lopez-1.png)
+![ruy-lopez](../images/ruy-lopez-1.png)
 
-![ruy-lopez](images/ruy-lopez-2.png)
+![ruy-lopez](../images/ruy-lopez-2.png)
 
 
 

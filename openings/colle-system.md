@@ -36,9 +36,9 @@ The Colle System a sound opening and very easy to learn. Even though this system
 
 ## Images
 
-![colle-system](images/colle-system-1.png)
+![colle-system](../images/colle-system-1.png)
 
-![colle-system](images/colle-system-2.png)
+![colle-system](../images/colle-system-2.png)
 
 
 

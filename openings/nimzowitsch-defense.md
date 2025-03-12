@@ -34,9 +34,9 @@ The Nimzowitsch Defense is a very practical opening, particularly at lower level
 
 ## Images
 
-![nimzowitsch-defense](images/nimzowitsch-defense-1.png)
+![nimzowitsch-defense](../images/nimzowitsch-defense-1.png)
 
-![nimzowitsch-defense](images/nimzowitsch-defense-2.png)
+![nimzowitsch-defense](../images/nimzowitsch-defense-2.png)
 
 
 

@@ -34,13 +34,13 @@ The French Defense is a very popular opening because it is fairly easy to learn,
 
 ## Images
 
-![french-defense](images/french-defense-1.png)
+![french-defense](../images/french-defense-1.png)
 
-![french-defense](images/french-defense-2.png)
+![french-defense](../images/french-defense-2.png)
 
 
 
 ## Extra Information
-**Description:** History Of The French Defense. The French Defense is one of the oldest openings in chess. The opening's name comes from an 1834 correspondence game between the London Chess Club and the Paris Chess Club. Although it has never surpassed other openings as Black's primary response to 1.e4, the French Defense has always been present in top games.
+**Description:** The French Defence is a chess opening characterised by the moves: . 1. e4 e6. This is most commonly followed by 2.d4 d5. Black usually plays ...c5 soon after, attacking White's pawn centre and gaining space on the queenside. [2] The French has a reputation for solidity and resilience, although some lines such as the Winawer Variation can lead to sharp complications.
 
-**Source:** [Link](https://www.chess.com/openings/French-Defense)
+**Source:** [Link](https://en.wikipedia.org/wiki/French_Defence)

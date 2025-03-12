@@ -46,13 +46,13 @@ The King’s Indian Attack is fairly easy to learn because it is not very theore
 
 ## Images
 
-![kings-indian-attack](images/kings-indian-attack-1.png)
+![kings-indian-attack](../images/kings-indian-attack-1.png)
 
-![kings-indian-attack](images/kings-indian-attack-2.png)
+![kings-indian-attack](../images/kings-indian-attack-2.png)
 
 
 
 ## Extra Information
-**Description:** A clear example of the King's Indian Attack as the reversed King's Indian Defense. History. Like several hypermodern openings, the King's Indian Attack was first known to be played by Bonnerjee Mohishunder in his games with John Cochrane in Calcutta (Kolkata), India in the 1850s, but did not become more widely popular until the 1920s.
+**Description:** The King's Indian Attack (or KIA) is a chess opening system where White adopts the setup more commonly seen being played by Black in the King's Indian Defence.The King's Indian Attack is characterised by the following moves: the central pawns are developed to e4 and d3, the knights are developed to d2 and f3, the king's bishop is fianchettoed at g2 following the g-pawn's move to g3, and White ...
 
-**Source:** [Link](https://www.chess.com/openings/Kings-Indian-Attack)
+**Source:** [Link](https://en.wikipedia.org/wiki/King's_Indian_Attack)

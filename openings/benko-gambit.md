@@ -34,9 +34,9 @@ Note:In chess, a gambit refers to an opening move in which a player makes a sacr
 
 ## Images
 
-![benko-gambit](images/benko-gambit-1.png)
+![benko-gambit](../images/benko-gambit-1.png)
 
-![benko-gambit](images/benko-gambit-2.png)
+![benko-gambit](../images/benko-gambit-2.png)
 
 
 

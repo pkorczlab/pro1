@@ -34,9 +34,9 @@ The Slav Defense was partly designed to solve the problem black often has with t
 
 ## Images
 
-![slav-defense](images/slav-defense-1.png)
+![slav-defense](../images/slav-defense-1.png)
 
-![slav-defense](images/slav-defense-2.png)
+![slav-defense](../images/slav-defense-2.png)
 
 
 

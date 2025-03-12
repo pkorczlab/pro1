@@ -34,9 +34,9 @@ Philidor’s Defense can be very effective if your goal is to limit white’s op
 
 ## Images
 
-![philidors-defense](images/philidors-defense-1.png)
+![philidors-defense](../images/philidors-defense-1.png)
 
-![philidors-defense](images/philidors-defense-2.png)
+![philidors-defense](../images/philidors-defense-2.png)
 
 
 

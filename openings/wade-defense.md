@@ -34,9 +34,9 @@ Even though The Wade Defense opening is played surprisingly often, there is very
 
 ## Images
 
-![wade-defense](images/wade-defense-1.png)
+![wade-defense](../images/wade-defense-1.png)
 
-![wade-defense](images/wade-defense-2.png)
+![wade-defense](../images/wade-defense-2.png)
 
 
 

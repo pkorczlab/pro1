@@ -34,9 +34,9 @@ The Pirc Defense provokes white to be over-ambitious in the opening. If black su
 
 ## Images
 
-![pirc-defense](images/pirc-defense-1.png)
+![pirc-defense](../images/pirc-defense-1.png)
 
-![pirc-defense](images/pirc-defense-2.png)
+![pirc-defense](../images/pirc-defense-2.png)
 
 
 

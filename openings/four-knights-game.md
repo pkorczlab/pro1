@@ -34,9 +34,9 @@ The Four-Knights Game is a perfectly sound opening that features very natural de
 
 ## Images
 
-![four-knights-game](images/four-knights-game-1.png)
+![four-knights-game](../images/four-knights-game-1.png)
 
-![four-knights-game](images/four-knights-game-2.png)
+![four-knights-game](../images/four-knights-game-2.png)
 
 
 

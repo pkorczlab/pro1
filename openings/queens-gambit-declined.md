@@ -34,9 +34,9 @@ Whereas Queen’s Pawn openings are generally known to be slower than King’s P
 
 ## Images
 
-![queens-gambit-declined](images/queens-gambit-declined-1.png)
+![queens-gambit-declined](../images/queens-gambit-declined-1.png)
 
-![queens-gambit-declined](images/queens-gambit-declined-2.png)
+![queens-gambit-declined](../images/queens-gambit-declined-2.png)
 
 
 

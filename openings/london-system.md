@@ -38,9 +38,9 @@ Being a System Opening, the London System is easy to learn and there isn’t muc
 
 ## Images
 
-![london-system](images/london-system-1.png)
+![london-system](../images/london-system-1.png)
 
-![london-system](images/london-system-2.png)
+![london-system](../images/london-system-2.png)
 
 
 

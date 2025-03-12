@@ -30,9 +30,9 @@ In the Queen’s-Gambit Accepted Main Line, white delays Nc3, in favor of Nf3, b
 
 ## Images
 
-![queens-gambit-accepted](images/queens-gambit-accepted-1.png)
+![queens-gambit-accepted](../images/queens-gambit-accepted-1.png)
 
-![queens-gambit-accepted](images/queens-gambit-accepted-2.png)
+![queens-gambit-accepted](../images/queens-gambit-accepted-2.png)
 
 
 

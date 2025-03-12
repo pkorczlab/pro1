@@ -36,9 +36,9 @@ The Two Knights Defense tempts white to play the Fried Liver Attack. If black kn
 
 ## Images
 
-![two-knights-defense](images/two-knights-defense-1.png)
+![two-knights-defense](../images/two-knights-defense-1.png)
 
-![two-knights-defense](images/two-knights-defense-2.png)
+![two-knights-defense](../images/two-knights-defense-2.png)
 
 
 

@@ -34,9 +34,9 @@ The Dutch Defense leads to imbalanced positions and gives black the opportunity 
 
 ## Images
 
-![dutch-defense](images/dutch-defense-1.png)
+![dutch-defense](../images/dutch-defense-1.png)
 
-![dutch-defense](images/dutch-defense-2.png)
+![dutch-defense](../images/dutch-defense-2.png)
 
 
 

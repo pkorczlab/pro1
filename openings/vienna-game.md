@@ -34,9 +34,9 @@ The Vienna Game sidesteps many of black’s opening choices and therefore avoids
 
 ## Images
 
-![vienna-game](images/vienna-game-1.png)
+![vienna-game](../images/vienna-game-1.png)
 
-![vienna-game](images/vienna-game-2.png)
+![vienna-game](../images/vienna-game-2.png)
 
 
 

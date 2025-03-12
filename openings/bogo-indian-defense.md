@@ -36,9 +36,9 @@ The Bogo-Indian Defense is reasonably easy to learn and it is also strategically
 
 ## Images
 
-![bogo-indian-defense](images/bogo-indian-defense-1.png)
+![bogo-indian-defense](../images/bogo-indian-defense-1.png)
 
-![bogo-indian-defense](images/bogo-indian-defense-2.png)
+![bogo-indian-defense](../images/bogo-indian-defense-2.png)
 
 
 

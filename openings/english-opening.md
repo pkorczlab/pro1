@@ -38,9 +38,9 @@ In the English Opening white settles for slower development in return for long-t
 
 ## Images
 
-![english-opening](images/english-opening-1.png)
+![english-opening](../images/english-opening-1.png)
 
-![english-opening](images/english-opening-2.png)
+![english-opening](../images/english-opening-2.png)
 
 
 

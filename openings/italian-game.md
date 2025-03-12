@@ -34,9 +34,9 @@ The fact that many beginners play the Italian Game, quite possibly without even 
 
 ## Images
 
-![italian-game](images/italian-game-1.png)
+![italian-game](../images/italian-game-1.png)
 
-![italian-game](images/italian-game-2.png)
+![italian-game](../images/italian-game-2.png)
 
 
 

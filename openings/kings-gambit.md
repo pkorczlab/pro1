@@ -36,9 +36,9 @@ The King’s Gambit is a very exciting opening, particularly among spectators of
 
 ## Images
 
-![kings-gambit](images/kings-gambit-1.png)
+![kings-gambit](../images/kings-gambit-1.png)
 
-![kings-gambit](images/kings-gambit-2.png)
+![kings-gambit](../images/kings-gambit-2.png)
 
 
 

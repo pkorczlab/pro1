@@ -34,9 +34,9 @@ The Evan’s Gambit is a very aggressive opening that gives white plenty attacki
 
 ## Images
 
-![evans-gambit](images/evans-gambit-1.png)
+![evans-gambit](../images/evans-gambit-1.png)
 
-![evans-gambit](images/evans-gambit-2.png)
+![evans-gambit](../images/evans-gambit-2.png)
 
 
 
